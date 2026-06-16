@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Shikaru0/Shikaru0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shikaru, a developer who builds games, applications, and mods. 
 
-Here are some ideas to get you started:
+I also like experimenting with Blender and Krita for visuals, ideas, and asset creation alongside development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Focus Areas
+
+- Game development
+- Application development
+- Modding and game customization
+
+## Tools & Tech
+
+- Minecraft Modding: *Fabric*
+- Game Engines: *Unity*, *Godot*
+- Programming Languages: *C++*, *Python*
+- Creative tools: *Blender*, *Krita*
+
+## A Bit About Me
+- 🎬 Into anime
+- ⚙️ I like experimenting with tools and technology
+- 📜 I enjoy learning new programs and scripting languages.
